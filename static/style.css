@@ -1,0 +1,18 @@
+body {
+  background: #fafafa;
+  color: #333333;
+}
+.navbar-nav .nav-link {
+  color: #cbd5db;
+}
+.navbar-nav .nav-link.active {
+  font-weight: 400;
+}
+.content {
+  background: #ffffff;
+  padding: 10px 20px;
+}
+.content-home {
+  background: #ffffff;
+  padding: 20px 20px;
+}
